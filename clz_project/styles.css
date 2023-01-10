@@ -1,0 +1,16 @@
+﻿.editForm{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    min-height:65vh;
+    flex-direction:column;
+
+}
+
+.innerEdit{
+    border:1px solid black;
+    min-width:500px;
+    min-height:40vh;
+    border-radius:5px;
+    padding:5px;
+}
