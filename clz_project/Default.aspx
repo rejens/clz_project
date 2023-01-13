@@ -4,6 +4,7 @@
 
 
     <div class="mt-5" style="margin-top: 100px">
+        <h1>Students Details</h1>
         <asp:Button Text="add" CssClass="btn btn-primary " style="display:block; margin-left:auto" OnClick="add_student" runat="server" />
         <asp:GridView ID="GridView1" runat="server" AutoGenerateColumns="false"
             Width="100%" CssClass="table table-bordered" OnRowEditing="GridView1_RowEditing"

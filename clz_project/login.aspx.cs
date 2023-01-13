@@ -40,7 +40,7 @@ namespace clz_project
                 }
                 else
                 {
-
+                    Response.Write("<script> alert('username or password incorrect') </script>");
                     
                 }
             }

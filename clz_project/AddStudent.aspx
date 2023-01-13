@@ -3,7 +3,7 @@
       <div class="editForm">
         <div class="card card-primary" style="width: 50%;">
             <div class="card-header">
-                <h3 class="card-title">Edit Branch</h3>
+                <h3 class="card-title">Add Student</h3>
             </div>
             <!-- /.card-header -->
             <!-- form start -->
