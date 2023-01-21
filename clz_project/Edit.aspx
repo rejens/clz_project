@@ -12,17 +12,17 @@
             <div class="card-body">
                 <div class="form-group">
                     <label for="name">Name</label>
-                    <asp:TextBox runat="server" class="form-control" ID="Name" placeholder="Enter Student's name" />
+                    <asp:TextBox runat="server" class="form-control" ID="Name" placeholder="Enter Student's name" value="" />
                 </div>
 
                 <div class="form-group">
                     <label for="address">Address</label>
-                    <asp:TextBox runat="server" class="form-control" ID="Address" placeholder="Enter address" />
+                    <asp:TextBox runat="server" class="form-control" ID="Address" placeholder="Enter address" value=""/>
                 </div>
 
                  <div class="form-group">
                     <label for="faculty">Faculty</label>
-                    <asp:TextBox runat="server" class="form-control" ID="Faculty" placeholder="Enter Faculty" />
+                    <asp:TextBox runat="server" class="form-control" ID="Faculty" placeholder="Enter Faculty" value="" />
                 </div>
 
 
